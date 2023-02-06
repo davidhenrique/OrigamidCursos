@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(238, 235, 235);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+
+.verde {
+  color: green;
+  text-decoration: none;
+}
+
+.hoje {
+  color: rgb(141, 69, 69);
+}
+
+.amanha {
+  color: rgb(84, 84, 190);
+}

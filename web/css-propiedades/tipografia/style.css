@@ -1,0 +1,10 @@
+body {
+  background: gray;
+}
+
+p {
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+  font-weight: bold;
+  
+}
